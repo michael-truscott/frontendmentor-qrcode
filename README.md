@@ -21,6 +21,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Github](https://github.com/michael-truscott/frontendmentor-qrcode)
+- Live Site URL: [Github Pages](https://michael-truscott.github.io/frontendmentor-qrcode/)
 
 ## My process
 
@@ -29,6 +30,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - HTML5
 - CSS
 - Flexbox
+- VS Code
 
 ### What I learned
 
