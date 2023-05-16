@@ -29,7 +29,7 @@ main {
     box-shadow: 0 3px 10px rgba(0,0,0,0.2);
 }
 
-.qr-code-container img {
+.card img {
     width: 100%;
     border-radius: 15px;
 }
@@ -41,5 +41,5 @@ main {
 
 .card p {
     color: hsl(220, 15%, 55%);
-    font-size: 0.9rem;
+    font-size: 1.05rem;
 }
